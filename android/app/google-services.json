@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494504762610",
+    "project_id": "super-note-b57ec",
+    "storage_bucket": "super-note-b57ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494504762610:android:2e4e00c580b458ef51846b",
+        "android_client_info": {
+          "package_name": "com.yeafrin.firebase_note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDlwKC1kxfKrKyWkEeXOsAieNpZiSekY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
